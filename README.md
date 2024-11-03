@@ -2,7 +2,7 @@
 ## About Me
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/meigeeong/My-Portfolio/blob/main/img/MyBanner.PNG" width="500" height="227">
+<img src="https://github.com/meigeeong/My-Portfolio/blob/main/img/MyBanner.PNG" width="573" height="188">
 
 
 Hi, I'm MeiGee! Bla bla bla.....
