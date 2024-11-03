@@ -8,6 +8,11 @@ Hi, I'm MeiGee! Bla bla bla.....
 
 ### For more details can refer to the CV below:<br>
 - [My Resume](https://github.com/meigeeong/My-Portfolio/blob/main/RESUME%20MG5%20.pdf)
+  
+# Summary of my MSc research
+## Thesis Title: Pharmacognostic and antioxidant properties of Dracaena sanderiana leaves
+## Finding summary: D. sanderiana leaves have the potential to be used as a natural antioxidant. The E60 fraction had the highest antioxidant activity.
+### Article available at: (https://www.mdpi.com/2076-3921/5/3/28#)
 
 # Summary of my phD research
 ## Thesis Title: Effect of combination of behavioural intervention and nutrition education with brown rice (COMBINE-BROWN) weight loss program on body composition and oxidative stress and among overweight and obese adults
