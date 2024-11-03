@@ -20,7 +20,7 @@ Hi! I'm Mei Gee, combining my Biomedicine and Nutrition expertise with a newfoun
 
 # Summary of my phD research
 ## Thesis Title: Effect of combination of behavioural intervention and nutrition education with brown rice (COMBINE-BROWN) weight loss program on body composition and oxidative stress and among overweight and obese adults
-### <img src="https://github.com/meigeeong/My-Portfolio/blob/main/img/Phases.PNG" width="694" height="512">
+### <img src="https://github.com/meigeeong/My-Portfolio/blob/main/img/Summary%20phases.PNG" width="879" height="476">
 ### Abstract available at:(https://erepo.usm.my/entities/publication/5106e40a-de67-4d4e-83e6-9e876afcb3e1)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
