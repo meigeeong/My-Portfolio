@@ -29,5 +29,9 @@ Hi! I'm Mei Gee, combining my Biomedicine and Nutrition expertise with a newfoun
 
 ## MySQL
 
-### Data Analysis module
-- [Crop Yield](https://github.com/meigeeong/Crop-Yield-mysql) 
+### Data Analysis Module
+- [Crop Yield](https://github.com/meigeeong/Crop-Yield-mysql)
+
+## Power BI
+### Data Analysis Module
+- [Online Sales](https://github.com/meigeeong/OnlineSales_Dashboard/blob/main/README.md)
