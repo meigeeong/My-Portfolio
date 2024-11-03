@@ -12,15 +12,9 @@ Hi, I'm MeiGee! Bla bla bla.....
 
 In my free time, I enjoy to exploring new data analysis tools and techniques. I am always looking for opportunities to expand my knowledge and skills in software/data relevant whether from working at daily job or independently
 
-### My Skillset relevant to:
-
-<img src="https://github.com/Roey0204/My-Portfolio/blob/main/img/profile.png" alt="Image1">
-
-This is a repository to showcase skills, share projects and track my progress in software / Data Science related topics.
-
 # Table of Contents
 
-## Python
+## MySQL
 
 ### Data Analysis module
-- [Video Games Sales](https://github.com/Roey0204/VideoGames_Sales) 
+- [Crop Yield](https://github.com/meigeeong/Crop-Yield-mysql) 
