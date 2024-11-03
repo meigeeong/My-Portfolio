@@ -4,7 +4,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/meigeeong/My-Portfolio/blob/main/img/MyBanner.PNG" width="573" height="188">
 
-
 Hi, I'm MeiGee! Bla bla bla.....
 
 ### For more details can refer to the CV below:<br>
@@ -12,7 +11,7 @@ Hi, I'm MeiGee! Bla bla bla.....
 
 # Regarding to my thesis
 - [Thesis](https://github.com/meigeeong/Crop-Yield-mysql)
-- 
+
 # Table of Contents
 
 ## MySQL
