@@ -8,7 +8,10 @@ Hi! I'm Mei Gee, combining my Biomedicine and Nutrition expertise with a newfoun
 
 ### For more details can refer to the CV below:<br>
 - [My Resume](https://github.com/meigeeong/My-Portfolio/blob/main/RESUME%20MG5%20.pdf)
-  
+
+# Data Analysis Skills During Postgraduate Research Journey...
+### <img src= "https://github.com/meigeeong/My-Portfolio/blob/main/img/SPSS.PNG" width="753" height="376">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 # Summary of my MSc research
 ## Thesis Title: Pharmacognostic and antioxidant properties of Dracaena sanderiana leaves
 ### Finding summary: D. sanderiana leaves have the potential to be used as a natural antioxidant. The E60 fraction had the highest antioxidant activity.
