@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/meigeeong/My-Portfolio/blob/main/img/MyBanner2PNG.PNG" width="705" height="287">
 
-Hi! I'm Mei Gee, combining my Biomedicine and Nutrition expertise with a newfound passion for data analysis. I'm currently focusing on mastering MySQL, Power BI, Python to bring data-driven insights to the different fields of studies including agriculture, sales etc. My GitHub repository is a collection of projects that highlight my journey and skills in data manipulation and visualization. I also have extensive experience with SPSS, where I conducted descriptive and inferential statistics to solve complex problems during my postgraduates studies.
+Hi! I'm Mei Gee, combining my Biomedicine and Nutrition expertise with a newfound passion for data analysis. I'm currently focusing on mastering data analytic skills, including MySQL, Power BI, to bring data-driven insights to the different fields of studies including agriculture, sales etc. My GitHub repository is a collection of projects that highlight my journey and skills in data manipulation and visualization. I also have extensive experience with SPSS, where I conducted descriptive and inferential statistics to solve complex problems during my postgraduates studies.
 
 ### For more details can refer to the CV below:<br>
 - [My Resume](https://github.com/meigeeong/My-Portfolio/blob/main/RESUME%20MG5%20.pdf)
@@ -28,7 +28,6 @@ Hi! I'm Mei Gee, combining my Biomedicine and Nutrition expertise with a newfoun
 # Table of Contents
 
 ## MySQL
-
 ### Data Analysis Module
 - [Crop Yield](https://github.com/meigeeong/Crop-Yield-mysql)
 
