@@ -12,6 +12,17 @@ Hi! I'm Mei Gee, combining my Biomedicine and Nutrition expertise with a newfoun
 # Data Analysis Skills During Postgraduate Research Journey...
 ### <img src= "https://github.com/meigeeong/My-Portfolio/blob/main/img/SPSS.PNG" width="753" height="376">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#### Statistical Analyses: 
+--Descriptive Statistics: Calculated measures of central tendency (mean, median) and dispersion (standard deviation, variance) to describe the main features of a dataset.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+--Inferential Statistics: Applied inferential techniques such as hypothesis testing (t-tests, chi-square tests) to draw conclusions about a population based on sample data.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+--ANOVA (Analysis of Variance): Used ANOVA to compare means across multiple groups and determine if there are statistically significant differences between them, include One-Way ANOVA and repeated measure ANOVA.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+--Data Visualisation: Created visualisations (e.g., histograms, scatter plots, box plots) to present data insights and trends clearly and effectively.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+--Non-parametric Tests: Used non-parametric statistical tests (e.g., Mann-Whitney U Test, Wilcoxon Signed-Rank Test) when data did not meet parametric assumptions.
+
 # Summary of my MSc research
 ## Thesis Title: Pharmacognostic and antioxidant properties of Dracaena sanderiana leaves
 ### Finding summary: D. sanderiana leaves have the potential to be used as a natural antioxidant. The E60 fraction had the highest antioxidant activity.
