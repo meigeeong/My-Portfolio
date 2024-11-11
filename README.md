@@ -28,16 +28,26 @@ Hi! I'm Mei Gee, combining my Biomedicine and Nutrition expertise with a newfoun
 # Summary of my phD research
 ## Thesis Title: Effect of combination of behavioural intervention and nutrition education with brown rice (COMBINE-BROWN) weight loss program on body composition and oxidative stress and among overweight and obese adults
 ### <img src="https://github.com/meigeeong/My-Portfolio/blob/main/img/Summary%20phases.PNG" width="879" height="476">
-### Laboratory Analyses in Phase 1&2: 
-#### Proximate Analysis: Determined moisture, protein, fat, and ash content.
-#### Textural Analysis: Assessed the texture of food samples using instruments like texture analyser to evaluate properties such as firmness, chewiness, and cohesiveness.
-#### Glycaemic Index (GI) Measurement: Measured blood glucose levels in participants following consumption of the test foods and analyzed the incremental area under the blood glucose response curve (IAUC).
-#### Quality control measures: Implemented quality control measures including calibration of equipment and validation of methods, including Hemocue and Reflotron blood glucose analyser. 
-### Intervention experimental studies: Implemented behavioural weight loss programs for various populations, including obese patients. Responsibilities involved:
-#### Collaborating with healthcare providers and public health officials from Obesity Clinic to integrate behavioural modification, physical training and nutritional regimes into broader health initiatives and programs.
-#### Ensure participant compliance by compliance monitoring; administer physical activity assessments and quality of life evaluations through validated questionnaires.
-#### Interpreted biochemical analyses, including glucose, lipid, and renal markers, to assess metabolic health and oxidative stress. 
-#### Conducted anthropometric measurements to measure changes in body composition. 
+### Phase 1& 2: Laboratory Analyses 
+#### 1. Proximate Analysis: 
+##### -Determined moisture, protein, fat, and ash content.
+#### 2. Textural Analysis: 
+##### -Assessed the texture of food samples using instruments like texture analyser to evaluate properties such as firmness, chewiness, and cohesiveness.
+##### 3. Glycaemic Index (GI) Measurement: 
+##### -Measured blood glucose levels in participants following consumption of the test foods and analyzed the incremental area under the blood glucose response curve (IAUC).
+#### 4. Quality control measures: 
+##### -Implemented quality control measures including calibration of equipment and validation of methods, including Hemocue and Reflotron blood glucose analyser. 
+### Phase 3: Intervention experimental studies
+#### 1. Implemented behavioural weight loss programs
+##### -For overweight and obese participants. 
+#### 2. Collaborating with healthcare providers and public health officials from Obesity Clinic
+##### -To integrate behavioural modification, physical training and nutritional regimes into broader health initiatives and programs.
+#### 3. Ensure participant compliance
+##### -By compliance monitoring; administer physical activity assessments and quality of life evaluations through validated questionnaires.
+#### 4. Interpreted biochemical analyses
+##### -Including glucose, lipid, and renal markers, to assess metabolic health and oxidative stress. 
+#### 5. Conducted anthropometric and body composition assessment
+##### -To measure changes in body composition. 
 
 
 ### Abstract available at:(https://erepo.usm.my/entities/publication/5106e40a-de67-4d4e-83e6-9e876afcb3e1)
