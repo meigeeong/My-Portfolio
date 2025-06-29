@@ -44,6 +44,7 @@ Hi! I'm Mei Gee, combining my Biomedicine and Nutrition expertise with a newfoun
 ## Power BI
 ### Data Analysis Module
 - [Online Sales](https://github.com/meigeeong/OnlineSales_Dashboard/blob/main/README.md)
+- [Diabetes](https://github.com/meigeeong/diabetesfile1)
 
 ## Python
 ### Data Analysis Module
