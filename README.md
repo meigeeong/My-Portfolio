@@ -20,13 +20,13 @@ Hi! I'm Mei Gee, combining my Biomedicine and Nutrition expertise with a newfoun
 #### Non-parametric Tests: Used non-parametric statistical tests (e.g., Mann-Whitney U Test, Wilcoxon Signed-Rank Test) when data did not meet parametric assumptions.
 
 # Summary of my MSc research
-## Thesis Title: Pharmacognostic and antioxidant properties of Dracaena sanderiana leaves
+### Thesis Title: Pharmacognostic and antioxidant properties of Dracaena sanderiana leaves
 ### Finding summary: D. sanderiana leaves have the potential to be used as a natural antioxidant. The E60 fraction had the highest antioxidant activity.
 ### Article available at: (https://www.mdpi.com/2076-3921/5/3/28#)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 # Summary of my phD research
-## Thesis Title: Effect of combination of behavioural intervention and nutrition education with brown rice (COMBINE-BROWN) weight loss program on body composition and oxidative stress and among overweight and obese adults
+### Thesis Title: Effect of combination of behavioural intervention and nutrition education with brown rice (COMBINE-BROWN) weight loss program on body composition and oxidative stress and among overweight and obese adults
 ### <img src="https://github.com/meigeeong/My-Portfolio/blob/main/img/Summary%20phases.PNG" width="879" height="476">
  
 
