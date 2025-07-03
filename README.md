@@ -9,6 +9,21 @@ Hi! I'm Mei Gee, combining my Biomedicine and Nutrition expertise with a newfoun
 ### For more details can refer to the CV below:<br>
 - [My Resume](https://github.com/meigeeong/My-Portfolio/blob/main/ONG%20MEI%20GEE%20RESUME2.pdf)
 
+# Table of Contents
+
+## MySQL
+### Data Analysis Module
+- [Crop Yield](https://github.com/meigeeong/Crop-Yield-mysql)
+
+## Power BI
+### Data Analysis Module
+- [Online Sales](https://github.com/meigeeong/OnlineSales_Dashboard/blob/main/README.md)
+- [Diabetes](https://github.com/meigeeong/diabetesfile1)
+
+## Python
+### Data Analysis Module
+- [Gym Exercise](https://github.com/meigeeong/Gym_Exercise_Analysis/blob/main/README.md)
+
 # Data Analysis Skills During Postgraduate Research Journey...
 ### <img src= "https://github.com/meigeeong/My-Portfolio/blob/main/img/SPSS.PNG" width="753" height="376">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,17 +50,3 @@ Hi! I'm Mei Gee, combining my Biomedicine and Nutrition expertise with a newfoun
 ### Article available at: (https://www.asianjab.com/wp-content/uploads/2019/06/13.-AJAB-P27.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# Table of Contents
-
-## MySQL
-### Data Analysis Module
-- [Crop Yield](https://github.com/meigeeong/Crop-Yield-mysql)
-
-## Power BI
-### Data Analysis Module
-- [Online Sales](https://github.com/meigeeong/OnlineSales_Dashboard/blob/main/README.md)
-- [Diabetes](https://github.com/meigeeong/diabetesfile1)
-
-## Python
-### Data Analysis Module
-- [Gym Exercise](https://github.com/meigeeong/Gym_Exercise_Analysis/blob/main/README.md)
