@@ -19,6 +19,7 @@ Hi! I'm Mei Gee, combining my Biomedicine and Nutrition expertise with a newfoun
 ### Data Analysis Module
 - [Online Sales](https://github.com/meigeeong/OnlineSales_Dashboard/blob/main/README.md)
 - [Diabetes](https://github.com/meigeeong/diabetesfile1)
+- [Diabetes Prediction among Rural African-Americans](https://github.com/meigeeong/Diabetes-Rural_AfricanAmerican)
 
 ## Python
 ### Data Analysis Module
